@@ -1,0 +1,6 @@
+print("Hallo welcome")
+print("welcome naja")
+nickname = input ("กรอกชื่อเล่นหน่อยน้าา")
+age = int(input("อายุ :"))
+weight = int(input("น้ำหนัก :"))
+height =int(input("ส่วนสูง :"))
